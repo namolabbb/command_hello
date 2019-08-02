@@ -1,5 +1,2 @@
-//for command
-//local
+//for comma
 
-print("Hello world")
-print("Tell ")
